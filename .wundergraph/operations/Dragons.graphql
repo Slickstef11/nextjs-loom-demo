@@ -4,3 +4,11 @@ query Dragons {
 		active
 	}
 }
+
+# query Episodes {
+# 	rickAndMorty_episodes {
+# 		info {
+# 			count
+# 		}
+# 	}
+# }
